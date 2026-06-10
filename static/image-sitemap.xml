@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage Images -->
+  <url>
+    <loc>https://dizajnownia.pl/</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/og-image.png</image:loc>
+      <image:title>Dizajnownia - Profesjonalne Projektowanie Graficzne</image:title>
+      <image:caption>Profesjonalne usługi projektowania graficznego w Polsce</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/tlo-1024x550.png</image:loc>
+      <image:title>Tło główne - Dizajnownia</image:title>
+      <image:caption>Główne tło strony internetowej Dizajnownia</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/graphics.svg</image:loc>
+      <image:title>Grafika główna - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Service Icons -->
+  <url>
+    <loc>https://dizajnownia.pl/logo</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/logo.svg</image:loc>
+      <image:title>Ikona usługi - Projektowanie Logo</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/wizytowki</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/wizytowki.svg</image:loc>
+      <image:title>Ikona usługi - Projektowanie Wizytówek</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/ulotki</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/ulotki.svg</image:loc>
+      <image:title>Ikona usługi - Projektowanie Ulotek</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/banery</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/banery.svg</image:loc>
+      <image:title>Ikona usługi - Projektowanie Banerów</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/strony-internetowe</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/web.svg</image:loc>
+      <image:title>Ikona usługi - Projektowanie Stron Internetowych</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/szyldy</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/szyld.svg</image:loc>
+      <image:title>Ikona usługi - Projektowanie Szyldów</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/oklejanie-witryn</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/oklejanieWitryn.svg</image:loc>
+      <image:title>Ikona usługi - Oklejanie Witryn Sklepowych</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/oklejanie-aut</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/oklejaniaAut.svg</image:loc>
+      <image:title>Ikona usługi - Oklejanie Samochodów</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/windery</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/windery.svg</image:loc>
+      <image:title>Ikona usługi - Projektowanie Winderów</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/rolupy</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/rollUp.svg</image:loc>
+      <image:title>Ikona usługi - Projektowanie Rolup</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/plakaty</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/plakaty.svg</image:loc>
+      <image:title>Ikona usługi - Projektowanie Plakatów</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/potykacze</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/potykacze.svg</image:loc>
+      <image:title>Ikona usługi - Projektowanie Potykaczy</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/kasetony</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/kasetony.svg</image:loc>
+      <image:title>Ikona usługi - Projektowanie Kasetonów</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/fototapety</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/fototapety.svg</image:loc>
+      <image:title>Ikona usługi - Projektowanie Fototapet</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/etykiety</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/etykiety.svg</image:loc>
+      <image:title>Ikona usługi - Projektowanie Etykiet</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/teczki</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/teczki.svg</image:loc>
+      <image:title>Ikona usługi - Projektowanie Teczek</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/vouchery</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/vouchery.svg</image:loc>
+      <image:title>Ikona usługi - Projektowanie Voucherów</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/3d</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/3d.svg</image:loc>
+      <image:title>Ikona usługi - Projektowanie 3D</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Additional Important Images -->
+  <url>
+    <loc>https://dizajnownia.pl/</loc>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/logos.svg</image:loc>
+      <image:title>Loga klientów - Dizajnownia</image:title>
+      <image:caption>Portfolio logów naszych klientów</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/galeria.svg</image:loc>
+      <image:title>Galeria prac - Dizajnownia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/kontakt.svg</image:loc>
+      <image:title>Kontakt - Dizajnownia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/telefon.svg</image:loc>
+      <image:title>Telefon kontaktowy - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+</urlset>

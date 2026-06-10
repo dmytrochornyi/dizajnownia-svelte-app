@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://dizajnownia.pl/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://dizajnownia.pl/img/tlo-1024x550.png</video:thumbnail_loc>
+      <video:title>Dizajnownia - Profesjonalne Projektowanie Graficzne</video:title>
+      <video:description>Poznaj nasze usługi projektowania graficznego - wizytówki, ulotki, banery, logo i wiele więcej. Wysokiej jakości wykonanie, szybka realizacja.</video:description>
+      <video:content_loc>https://dizajnownia.pl/img/film.mp4</video:content_loc>
+      <video:duration>30</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:upload_date>2024-01-01T00:00:00+01:00</video:upload_date>
+      <video:live>no</video:live>
+      <video:tag>projektowanie graficzne</video:tag>
+      <video:tag>dizajnownia</video:tag>
+      <video:tag>wizytówki</video:tag>
+      <video:tag>ulotki</video:tag>
+      <video:tag>banery</video:tag>
+      <video:tag>logo</video:tag>
+      <video:category>Business</video:category>
+    </video:video>
+  </url>
+</urlset>

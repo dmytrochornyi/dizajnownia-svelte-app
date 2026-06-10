@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  
+  <!-- Homepage - Highest Priority -->
+  <url>
+    <loc>https://dizajnownia.pl/</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/og-image.png</image:loc>
+      <image:title>Dizajnownia - Profesjonalne Projektowanie Graficzne</image:title>
+      <image:caption>Profesjonalne usługi projektowania graficznego w Polsce</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Core Services - High Priority -->
+  <url>
+    <loc>https://dizajnownia.pl/logo</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/logo.svg</image:loc>
+      <image:title>Projektowanie Logo - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/wizytowki</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/wizytowki.svg</image:loc>
+      <image:title>Projektowanie Wizytówek - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/ulotki</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/ulotki.svg</image:loc>
+      <image:title>Projektowanie Ulotek - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/banery</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/banery.svg</image:loc>
+      <image:title>Projektowanie Banerów - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/strony-internetowe</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/web.svg</image:loc>
+      <image:title>Projektowanie Stron Internetowych - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Secondary Services - Medium-High Priority -->
+  <url>
+    <loc>https://dizajnownia.pl/szyldy</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/szyld.svg</image:loc>
+      <image:title>Projektowanie Szyldów - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/oklejanie-witryn</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/oklejanieWitryn.svg</image:loc>
+      <image:title>Oklejanie Witryn Sklepowych - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/oklejanie-aut</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/oklejaniaAut.svg</image:loc>
+      <image:title>Oklejanie Samochodów - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/windery</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/windery.svg</image:loc>
+      <image:title>Projektowanie Winderów - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/rolupy</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/rollUp.svg</image:loc>
+      <image:title>Projektowanie Rolup - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Additional Services - Medium Priority -->
+  <url>
+    <loc>https://dizajnownia.pl/plakaty</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/plakaty.svg</image:loc>
+      <image:title>Projektowanie Plakatów - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/potykacze</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/potykacze.svg</image:loc>
+      <image:title>Projektowanie Potykaczy - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/kasetony</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/kasetony.svg</image:loc>
+      <image:title>Projektowanie Kasetonów - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/fototapety</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/fototapety.svg</image:loc>
+      <image:title>Projektowanie Fototapet - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/etykiety</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/etykiety.svg</image:loc>
+      <image:title>Projektowanie Etykiet - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/teczki</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/teczki.svg</image:loc>
+      <image:title>Projektowanie Teczek - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/vouchery</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/vouchery.svg</image:loc>
+      <image:title>Projektowanie Voucherów - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Specialized Services - Lower Priority -->
+  <url>
+    <loc>https://dizajnownia.pl/3d</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/3d.svg</image:loc>
+      <image:title>Projektowanie 3D - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Blog Section - High Priority -->
+  <url>
+    <loc>https://dizajnownia.pl/blog</loc>
+    <lastmod>2025-01-10T10:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/og-image.png</image:loc>
+      <image:title>Blog - Dizajnownia | Porady i inspiracje z projektowania graficznego</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Individual Blog Posts -->
+  <url>
+    <loc>https://dizajnownia.pl/blog/druk-reklamowy-2025</loc>
+    <lastmod>2025-01-10T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/service-img/service-baner1.webp</image:loc>
+      <image:title>Trendy w druku reklamowym na 2025 rok - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/blog/jak-stworzyc-skuteczne-logo</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/logo.svg</image:loc>
+      <image:title>Jak stworzyć skuteczne logo - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/blog/kolory-w-projektowaniu</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/og-image.png</image:loc>
+      <image:title>Kolory w projektowaniu - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://dizajnownia.pl/blog/projektowanie-wizytowek</loc>
+    <lastmod>2024-12-19T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://dizajnownia.pl/img/wizytowki.svg</image:loc>
+      <image:title>Projektowanie wizytówek - Dizajnownia</image:title>
+    </image:image>
+  </url>
+  
+</urlset>

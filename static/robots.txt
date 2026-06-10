@@ -1,0 +1,55 @@
+# Dizajnownia - Projektowanie Graficzne
+User-agent: *
+Allow: /
+
+# Disallow WordPress-style query parameters
+Disallow: /?p=*
+Disallow: /?page_id=*
+Disallow: /?post_id=*
+Disallow: /?id=*
+
+# Sitemaps
+Sitemap: https://dizajnownia.pl/sitemap-index.xml
+Sitemap: https://dizajnownia.pl/sitemap.xml
+Sitemap: https://dizajnownia.pl/video-sitemap.xml
+Sitemap: https://dizajnownia.pl/image-sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Disallow admin or private areas (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+
+# Allow important directories
+Allow: /wizytowki/
+Allow: /ulotki/
+Allow: /banery/
+Allow: /logo/
+Allow: /strony-internetowe/
+Allow: /windery/
+Allow: /vouchery/
+Allow: /teczki/
+Allow: /szyldy/
+Allow: /rolupy/
+Allow: /potykacze/
+Allow: /plakaty/
+Allow: /oklejanie-witryn/
+Allow: /oklejanie-aut/
+Allow: /kasetony/
+Allow: /fototapety/
+Allow: /etykiety/
+Allow: /3d/
+Allow: /blog/
+
+# Allow static assets
+Allow: /img/
+Allow: /favicon/
+Allow: /css/
+Allow: /js/
+
+# Allow video files for indexing
+Allow: /img/*.mp4
+Allow: /img/*.webm
+Allow: /img/*.ogg
