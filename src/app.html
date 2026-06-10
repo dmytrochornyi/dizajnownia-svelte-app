@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="pl-PL">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<!-- Essential SEO Meta Tags -->
+		<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+		<meta name="language" content="pl" />
+		<meta name="geo.region" content="PL" />
+		
+		<!-- X-Robots-Tag meta tag for enhanced search engine control -->
+		<meta name="X-Robots-Tag" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+		
+		<!-- Canonical URL will be set dynamically in layout -->
+		
+		<!-- Alternate Language Versions -->
+		<link rel="alternate" hreflang="pl" href="https://dizajnownia.pl/" />
+		<link rel="alternate" hreflang="x-default" href="https://dizajnownia.pl/" />
+
+		<!-- Favicon -->
+		<link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+		<link rel="icon" type="image/x-icon" href="/favicon/favicon.ico" />
+		<link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+		<link rel="manifest" href="/favicon/site.webmanifest" />
+		<meta name="theme-color" content="#ffffff" />
+
+		<!-- Early font loading to minimize FOUC -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+
+		<!-- Video resources - let browser handle loading naturally -->
+		
+		<!-- Video meta tags for SEO -->
+		<meta property="og:video" content="https://dizajnownia.pl/img/film.mp4" />
+		<meta property="og:video:type" content="video/mp4" />
+		<meta property="og:video:width" content="1920" />
+		<meta property="og:video:height" content="1080" />
+		<meta property="og:video:secure_url" content="https://dizajnownia.pl/img/film.mp4" />
+		
+		<!-- Twitter video meta tags -->
+		<meta name="twitter:card" content="player" />
+		<meta name="twitter:player" content="https://dizajnownia.pl/img/film.mp4" />
+		<meta name="twitter:player:width" content="1920" />
+		<meta name="twitter:player:height" content="1080" />
+
+		<!-- Critical baseline styles to avoid unstyled flash before app CSS is ready -->
+		<style>
+			html, body { margin: 0; padding: 0; }
+			html { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+			body { background: #fff; color: #333; line-height: 1.6; overflow-x: hidden; }
+			
+			/* Hidden SEO elements - accessible to crawlers but not visible */
+			.seo-hidden {
+				position: absolute !important;
+				left: -10000px !important;
+				width: 1px !important;
+				height: 1px !important;
+				overflow: hidden !important;
+				clip: rect(0, 0, 0, 0) !important;
+				white-space: nowrap !important;
+				border: 0 !important;
+			}
+			
+			/* Visually hidden but accessible to screen readers */
+			.visually-hidden {
+				position: absolute !important;
+				width: 1px !important;
+				height: 1px !important;
+				padding: 0 !important;
+				margin: -1px !important;
+				overflow: hidden !important;
+				clip: rect(0, 0, 0, 0) !important;
+				white-space: nowrap !important;
+				border: 0 !important;
+			}
+		</style>
+
+		<!-- Publisher Meta Tags for SEO -->
+		<meta name="publisher" content="Dizajnownia" />
+		<meta property="article:publisher" content="https://dizajnownia.pl" />
+		<meta property="og:site_name" content="Dizajnownia" />
+		
+		<!-- Enhanced Organization Schema with Publisher Information -->
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "Organization",
+			"name": "Dizajnownia",
+			"alternateName": "Dizajnownia - Agencja Reklamowa",
+			"url": "https://dizajnownia.pl",
+			"logo": "https://dizajnownia.pl/img/logo.svg",
+			"description": "Profesjonalne usługi projektowania graficznego i reklamy. Wizytówki, ulotki, banery, logo, strony internetowe i wiele więcej.",
+			"telephone": "+48793666397",
+			"email": "kontakt@dizajnownia.pl",
+			"address": {
+				"@type": "PostalAddress",
+				"addressCountry": "PL",
+				"addressLocality": "Poland"
+			},
+			"areaServed": "Poland",
+			"serviceType": "Graphic Design, Advertising, Web Design",
+			"sameAs": [
+				"https://www.instagram.com/dizajnownia/",
+				"https://facebook.com/dizajnownia/"
+			],
+			"contactPoint": {
+				"@type": "ContactPoint",
+				"telephone": "+48793666397",
+				"contactType": "Customer Service",
+				"availableLanguage": "Polish"
+			},
+			"foundingDate": "2020",
+			"knowsAbout": [
+				"Projektowanie graficzne",
+				"Druk reklamowy",
+				"Strony internetowe",
+				"Logo design",
+				"Marketing wizualny"
+			],
+			"publisher": {
+				"@type": "Organization",
+				"name": "Dizajnownia",
+				"url": "https://dizajnownia.pl",
+				"logo": "https://dizajnownia.pl/img/logo.svg"
+			}
+		}
+		</script>
+		
+		<!-- Publisher Schema.org for Enhanced SEO -->
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "Publisher",
+			"name": "Dizajnownia",
+			"url": "https://dizajnownia.pl",
+			"logo": "https://dizajnownia.pl/img/logo.svg",
+			"description": "Profesjonalne usługi projektowania graficznego i reklamy",
+			"foundingDate": "2020",
+			"areaServed": "Poland",
+			"contactPoint": {
+				"@type": "ContactPoint",
+				"telephone": "+48793666397",
+				"contactType": "Customer Service",
+				"availableLanguage": "Polish"
+			},
+			"sameAs": [
+				"https://www.instagram.com/dizajnownia/",
+				"https://facebook.com/dizajnownia/"
+			]
+		}
+		</script>
+
+		%sveltekit.head%
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+</html>

@@ -1,0 +1,138 @@
+<script>
+	import { SERVICES_DATA } from '$lib/data.js';
+		import Navigation from '$lib/components/Navigation.svelte';
+	import Breadcrumbs from '$lib/components/Breadcrumbs.svelte';
+	import ServiceHero from '$lib/components/ServiceHero.svelte';
+	import ServiceFeatures from '$lib/components/ServiceFeatures.svelte';
+	import ServiceGallery from '$lib/components/ServiceGallery.svelte';
+	import KontaktSection from '$lib/components/KontaktSection.svelte';
+	import Footer from '$lib/components/Footer.svelte';
+
+	const service = SERVICES_DATA['potykacze'];
+	</script>
+
+<svelte:head>
+	<title>{service.title} - Dizajnownia | Profesjonalne {service.title.toLowerCase()}</title>
+	<meta name="description" content="{service.seoDescription}" />
+	<meta name="keywords" content="potykacze, potykacze reklamowe, projekt potykacze, profesjonalne potykacze" />
+	
+	<!-- Open Graph -->
+	<meta property="og:title" content="{service.title} - Dizajnownia" />
+	<meta property="og:description" content="{service.description}" />
+	<meta property="og:type" content="website" />
+    <meta property="og:image" content="https://dizajnownia.pl/img/og-image.png" />
+	
+	<!-- Enhanced Schema.org -->
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "Service",
+		"name": "{service.title}",
+		"description": "{service.description}",
+		"provider": {
+			"@type": "Organization",
+			"name": "Dizajnownia",
+			"url": "https://dizajnownia.pl"
+		},
+		"areaServed": "Poland",
+		"serviceType": "Graphic Design",
+		"category": "A-Frame Signs",
+		"offers": {
+			"@type": "Offer",
+			"availability": "https://schema.org/InStock",
+			"priceCurrency": "PLN"
+		},
+		"hasOfferCatalog": {
+			"@type": "OfferCatalog",
+			"name": "Potykacze",
+			"itemListElement": [
+				{
+					"@type": "Offer",
+					"itemOffered": {
+						"@type": "Product",
+						"name": "Potykacz standardowy",
+						"description": "Standardowy potykacz reklamowy",
+						"offers": {
+							"@type": "Offer",
+							"availability": "https://schema.org/InStock",
+							"priceCurrency": "PLN"
+						},
+						"aggregateRating": {
+							"@type": "AggregateRating",
+							"ratingValue": "4.7",
+							"reviewCount": "145"
+						}
+					}
+				},
+				{
+					"@type": "Offer",
+					"itemOffered": {
+						"@type": "Product",
+						"name": "Potykacz premium",
+						"description": "Premium potykacz z dodatkowymi opcjami",
+						"offers": {
+							"@type": "Offer",
+							"availability": "https://schema.org/InStock",
+							"priceCurrency": "PLN"
+						},
+						"aggregateRating": {
+							"@type": "AggregateRating",
+							"ratingValue": "4.9",
+							"reviewCount": "89"
+						}
+					}
+				}
+			]
+		}
+	}
+	</script>
+	
+	<!-- Breadcrumb Schema -->
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "BreadcrumbList",
+		"itemListElement": [
+			{
+				"@type": "ListItem",
+				"position": 1,
+				"name": "Strona główna",
+				"item": "https://dizajnownia.pl/"
+			},
+			{
+				"@type": "ListItem",
+				"position": 2,
+				"name": "Oferta",
+				"item": "https://dizajnownia.pl/#oferta"
+			},
+			{
+				"@type": "ListItem",
+				"position": 3,
+				"name": "{service.title}",
+				"item": "https://dizajnownia.pl/potykacze"
+			}
+		]
+	}
+	</script>
+</svelte:head>
+
+<!-- Navigation -->
+<Navigation />
+
+<!-- Breadcrumbs -->
+<Breadcrumbs serviceName={service.title} />
+
+<!-- Hero Section -->
+<ServiceHero {service} />
+
+<!-- Features Section -->
+<ServiceFeatures {service} features={service.features} />
+
+<!-- Gallery Section -->
+<ServiceGallery {service} gallery={service.gallery} />
+
+<!-- Contact Section -->
+<KontaktSection />
+
+<!-- Footer -->
+<Footer />
